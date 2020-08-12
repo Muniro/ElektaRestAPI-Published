@@ -1,0 +1,27 @@
+[
+    {
+      "equipmentId": 1,
+      "isAvailable": false,
+      "date": "2020-08-11T08:00:00.000Z"
+    },
+    {
+    
+      "equipmentId": 1,
+      "isAvailable": false,
+      "date": "2020-08-11T09:00:00.000Z"
+    },
+
+  {
+    "equipmentId": 2,
+    "isAvailable": false,
+    "date": "2020-08-11T08:00:00.000Z"
+  }
+    ,
+  {
+    "equipmentId": 2,
+    "isAvailable": true,
+    "date": "2020-08-11T09:00:00.000Z"
+  }
+
+
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 1,
+    "PatientID": 1,
+    "AppointmentDateTime": "2020-08-11T08:00:00Z"
+  },
+  {
+    "ID": 2,
+    "PatientID": 2,
+    "AppointmentDateTime": "2020-08-10T08:00:00Z"
+  },
+  {
+    "ID": 3,
+    "PatientID": 3,
+    "AppointmentDateTime": "2020-08-10T08:00:00Z"
+  },
+  {
+    "ID": 4,
+    "PatientID": 4,
+    "AppointmentDateTime": "2020-08-11T12:00:00Z"
+  },
+  {
+    "ID": 5,
+    "PatientID": 5,
+    "AppointmentDateTime": "2020-08-11T08:00:00Z"
+  },
+  {
+    "ID": 6,
+    "PatientID": 5,
+    "AppointmentDateTime": "2020-08-10T08:00:00Z"
+  },
+  {
+    "ID": 7,
+    "PatientID": 6,
+    "AppointmentDateTime": "2020-08-11T09:00:00Z"
+  },
+  {
+    "ID": 8,
+    "PatientID": 7,
+    "AppointmentDateTime": "2020-08-12T10:00:00Z"
+  },
+  {
+    "ID": 9,
+    "PatientID": 9,
+    "AppointmentDateTime": "2020-08-13T08:00:00Z"
+  },
+  {
+    "ID": 10,
+    "PatientID": 10,
+    "AppointmentDateTime": "2020-08-13T09:30:00Z"
+  },
+  {
+    "ID": 11,
+    "PatientID": 92,
+    "AppointmentDateTime": "2020-08-14T09:30:00Z"
+  },
+  {
+    "ID": 12,
+    "PatientID": 12,
+    "AppointmentDateTime": "2020-08-12T13:30:00Z"
+  },
+  {
+    "ID": 13,
+    "PatientID": 95,
+    "AppointmentDateTime": "2020-08-14T12:30:00Z"
+  }
+]
